@@ -1,3 +1,12 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Form1.cs](./CS/XpoXtraReports/Form1.cs) (VB: [Form1.vb](./VB/XpoXtraReports/Form1.vb))
+* [Order.cs](./CS/XpoXtraReports/Order.cs) (VB: [OrderDocument.vb](./VB/XpoXtraReports/OrderDocument.vb))
+* [OrderDocument.cs](./CS/XpoXtraReports/OrderDocument.cs) (VB: [OrderDocument.vb](./VB/XpoXtraReports/OrderDocument.vb))
+* [Orderline.cs](./CS/XpoXtraReports/Orderline.cs) (VB: [Orderline.vb](./VB/XpoXtraReports/Orderline.vb))
+* [XpoBaseReport.cs](./CS/XpoXtraReports/XpoBaseReport.cs) (VB: [XpoBaseReport.vb](./VB/XpoXtraReports/XpoBaseReport.vb))
+<!-- default file list end -->
 # How to bind a report to eXpress Persistent Objects (XPO)
 
 
